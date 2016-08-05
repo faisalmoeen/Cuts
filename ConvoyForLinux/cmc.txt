@@ -1,0 +1,10 @@
+data/truck_min.txt
+CMC  (m=6 k=180 e=200) : 2 convoys, 970 sec (timedb 6)
+
+CuTS (m=6 k=180 e=200.0 tol 8.0) : 	2/2 convoys, 194.0 sec (filter 189.0, refine 3.0, simpl 1.0, 99.8% reduc, index 0 sec, 411 parts (lambda=8), exact 0, correct 2, f.pos 100%, f.neg 100% , refinement cost 98352.0
+
+CuTS+ (m=6 k=180 e=200.0 tol 8.0) : 	2/2 convoys, 193.0 sec (filter 188.0, refine 3.0, simpl 1.0, 99.8% reduc, index 0 sec, 411 parts (lambda=8), exact 0, correct 2, f.pos 100%, f.neg 100% , refinement cost 98352.0
+
+CuTS* (m=6 k=180 e=200.0 tol 8.0) : 	2/2 convoys, 207.0 sec (filter 202.0, refine 3.0, simpl 1.0, 99.8% reduc, index 0 sec, 411 parts (lambda=8), exact 0, correct 2, f.pos 100%, f.neg 100% , refinement cost 98352.0
+
+-------------

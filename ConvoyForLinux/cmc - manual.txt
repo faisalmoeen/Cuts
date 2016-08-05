@@ -1,0 +1,8 @@
+data/truck_min.txt
+CuTS (m=3 k=180 e=8.0 tol 8.0) : 	2/2 convoys, 192.0 sec (filter 188.0, refine 2.0, simpl 1.0, 99.8% reduc, index 0 sec, 411 parts (lambda=8), exact 0, correct 2, f.pos 100%, f.neg 100% , refinement cost 25785.0
+
+CuTS+ (m=3 k=180 e=8.0 tol 8.0) : 	2/2 convoys, 199.0 sec (filter 195.0, refine 2.0, simpl 1.0, 99.8% reduc, index 0 sec, 411 parts (lambda=8), exact 0, correct 2, f.pos 100%, f.neg 100% , refinement cost 25785.0
+
+CuTS* (m=3 k=180 e=8.0 tol 8.0) : 	2/2 convoys, 226.0 sec (filter 222.0, refine 2.0, simpl 1.0, 99.8% reduc, index 0 sec, 411 parts (lambda=8), exact 0, correct 2, f.pos 100%, f.neg 100% , refinement cost 25785.0
+
+-------------

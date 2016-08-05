@@ -1,0 +1,24 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely
+  Starting remote build
+  Compiling sources:
+  stdafx.cpp
+  cmc.cpp
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\func.h(44): warning : "SMALL_NUM" redefined
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\geom.h(277,42): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\geom.h(280,21): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\geom.h(284,51): warning : conversion to ‘double’ from ‘std::vector<Point*>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\geom.h(287,21): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\geom.h(306,21): warning : conversion to ‘int’ from ‘std::vector<Point*>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\geom.h(307,24): warning : conversion to ‘int’ from ‘std::vector<Point*>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\geom.h(404,21): warning : conversion to ‘int’ from ‘std::vector<Point*>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\geom.h(405,24): warning : conversion to ‘int’ from ‘std::vector<Point*>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\ConvoyForLinux\ConvoyForLinux\buf.h(36,16): warning : conversion to ‘int’ from ‘std::vector<Point>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\ConvoyForLinux\ConvoyForLinux\buf.h(37,7): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\ConvoyForLinux\ConvoyForLinux\buf.h(96,7): error : extra qualification ‘Buffer::’ on member ‘dumpTimeDB’ [-fpermissive]
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\ConvoyForLinux\ConvoyForLinux\buf.h(69,34): warning : conversion to ‘int’ from ‘std::map<int, Trajectory>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\ConvoyForLinux\ConvoyForLinux\buf.h(72,42): warning : conversion to ‘int’ from ‘std::map<int, std::vector<IPoint> >::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\dbscan.h(31,42): warning : conversion to ‘int’ from ‘std::vector<Convoy>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\cmc.cpp(65,18): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+D:\IT4BI\INTERNSHIP\Alborg University_Faisal\ConvoyForLinux\ConvoyForLinux\cmc.cpp(91,27): warning : conversion to ‘int’ from ‘std::vector<int>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
